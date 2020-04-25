@@ -1,3 +1,10 @@
+---
+description: >-
+  Te-ai trezit vreodată cu erori care mai de care mai ciudate și greu de
+  înțeles? Citește mai jos cum poți să găsești ușor și rapid soluții pentru
+  acestea!
+---
+
 # Cum căutăm erori?
 
 Să o luăm cu începutul! Primul și cel mai important lucru când vine vorba de rezolvarea unei erori, este citirea ei. 
