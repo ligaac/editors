@@ -15,7 +15,7 @@ Deși există mici diferențe în modul în care sunt afișate erorile în func�
 
 Acestea sunt formate din **mesajul de eroare propriu-zis** \(error message\) ****și **stack-trace.**
 
-![Eroare &#xEE;n Visual Studio](.gitbook/assets/image%20%282%29.png)
+![Eroare &#xEE;n Visual Studio](.gitbook/assets/image%20%283%29.png)
 
 Mesajul de eroare îți spune, practic, care este problema, iar stack-trace îți spune la ce linie apare acea eroare sau librăria vizată. ****
 
@@ -46,7 +46,7 @@ Care pot fi aceste cuvinte cheie?
 
 
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 În cazul exemplului de mai sus, poți să cauți în browser următorul text:
 
