@@ -68,6 +68,6 @@ Sper că ți-am fost de ajutor! 🤗
 {% hint style="warning" %}
 ## Întâmpini dificultăți?
 
-Conteactează-mă la adresa ✉ **cristina.capata9@gmail.com** sau mă găsești pe 🌐 [Facebook](https://messenger.com/t/arpi.gabor).
+Conteactează-mă la adresa ✉ **cristina.capata9@gmail.com** sau mă găsești pe 🌐 [Facebook](https://www.messenger.com/t/cristinacapata).
 {% endhint %}
 
