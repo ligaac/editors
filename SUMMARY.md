@@ -11,4 +11,5 @@
   * [Ce este Git?](drafts/git-istoria-fiserelor-tale/ce-este-git.md)
   * [Cum instalăm Git](drafts/git-istoria-fiserelor-tale/cum-instalam-git.md)
   * [Primii pași în Git](drafts/git-istoria-fiserelor-tale/primii-pasi-in-git.md)
+* [Editare tips&tricks](untitled.md)
 
