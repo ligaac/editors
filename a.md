@@ -19,7 +19,7 @@ Acestea sunt formate din **mesajul de eroare propriu-zis** \(error message\) ***
 
 Mesajul de eroare îți spune, practic, care este problema, iar stack-trace îți spune la ce linie apare acea eroare sau librăria vizată. ****
 
-_În exemplul de mai jos, mesajul de eroare se află în coloanele „Code” și „Description”, iar din stack-trace face parte doar coloana „Line”._
+_În exemplul de mai sus, mesajul de eroare se află în coloanele „Code” și „Description”, iar din stack-trace face parte doar coloana „Line”._
 
 ## Cum caut soluția? 🧐
 
@@ -31,7 +31,7 @@ Ca să obții cele mai bune rezultate la căutarea pe Google, încearcă variant
 
 Vorbeam mai sus de stack-trace. De cele mai multe ori, informația din această parte e specifică programului scris de tine și nu e relevantă în căutarea soluției.
 
-_Spre exemplu, eroarea ta este la linia 13, dar aceeași eroare este, în codul colegului, la linia 78, programele fiind diferite. Dacă tu vei copia textul din stack-trace, vei obține toate rezultatele care care **conțin cuvinte** din acel text, dar care nu vor fi neparat relevante pentru tine, ci doar îți vor consuma timpul._
+> Exemplu: eroarea ta este la linia 13, dar aceeași eroare este, în codul colegului, la linia 78, programele fiind diferite. Dacă tu vei copia textul din stack-trace, vei obține toate rezultatele care care **conțin cuvinte** din acel text, dar care nu vor fi neparat relevante pentru tine, ci doar îți vor consuma timpul.
 
 De cele mai multe ori, **mesajul erorii** îți va oferi tot ce ai nevoie pentru căutare. Dacă ai un cod de eroare, ca în exemplul de mai sus, folosește-l în căutare. Șansele să găsești articole cu acea eroare sunt mari.
 
@@ -44,17 +44,11 @@ Care pot fi aceste cuvinte cheie?
 * limbajul de programare
 * mediul de programare
 
-
-
 ![](.gitbook/assets/image%20%283%29.png)
 
-În cazul exemplului de mai sus, poți să cauți în browser următorul text:
+În cazul exemplului de mai sus, poți să cauți în browser unul din următoarele:
 
-_visual studio CS0650 error_ 
-
-_c\# CS0650 error_ 
-
-_visual studio c\# CS0650 error_
+_`visual studio CS0650 error` `c# CS0650 error` `visual studio c# CS0650 error`_
 
 Bineînțeles, în loc de codul erorii poți introduce textul acesteia.
 
