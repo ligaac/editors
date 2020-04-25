@@ -65,3 +65,11 @@ Cu timpul vei observa și singur care sunt site-urile care te ajută și la care
 
 Sper că ți-am fost de ajutor! 🤗
 
+{% hint style="warning" %}
+## Întâmpini dificultăți?
+
+Conteactează-mă la adresa ✉ **cristina.capata9@gmail.com** sau mă găsești pe 🌐 [Facebook](https://messenger.com/t/arpi.gabor).
+{% endhint %}
+
+
+
