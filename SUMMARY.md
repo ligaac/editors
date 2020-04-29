@@ -16,4 +16,5 @@
 * [Editare tips&tricks](untitled.md)
 * [Cum să contribui?](untitled-1.md)
 * [Cum căutăm erori?](a.md)
+* [CGitHub Student Pack](github-student-pack.md)
 
